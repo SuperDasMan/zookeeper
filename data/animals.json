@@ -126,6 +126,16 @@
         "zany"
       ],
       "id": "12"
+    },
+    {
+      "name": "Steve",
+      "species": "Capybara",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
