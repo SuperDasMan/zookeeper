@@ -110,8 +110,8 @@
       "id": "10"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
+      "name": "Poopy Pants",
+      "species": "monkey",
       "diet": "omnivore",
       "personalityTraits": [
         "hungry"
@@ -119,40 +119,13 @@
       "id": "11"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Dookie the Splotch",
+      "species": "Turdburglar",
+      "diet": "folivore",
       "personalityTraits": [
-        "hungry"
+        "zany"
       ],
       "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Steve McMonkeytits",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "Steve McMonkeytits",
-      "species": "cheese",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "15"
     }
   ]
 }
